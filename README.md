@@ -12,7 +12,7 @@ Light mode & Dark mode available 📲
 
 - URLSession
 - API Networking
-- Decodable Protocol
+- Decodable
 - CoreLocation
-- Delegate Design Pattern
+- Delegation
 - Autolayout
